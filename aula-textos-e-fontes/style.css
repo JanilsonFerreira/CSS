@@ -1,0 +1,10 @@
+p {
+    color: blue;
+    font-size: 24px;
+    text-decoration: underline;
+    font-weight: 100;
+    text-transform: capitalize;
+    line-height: 350;
+    letter-spacing: 2px;
+    text-align: centro;
+}
