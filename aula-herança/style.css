@@ -1,0 +1,15 @@
+        div p {
+            color: red;
+        }
+        
+        div p {
+            color: blue;
+        }
+        
+        .segunda-section>p {
+            color: rgb(137, 18, 158);
+        }
+        
+        .primeira-sectin>p {
+            color: green;
+        }
