@@ -1,0 +1,29 @@
+                                                                                                                 p {
+                                                                                                                     color: rosybrown !important;
+                                                                                                                 }
+                                                                                                                 
+                                                                                                                 p {
+                                                                                                                     background-color: aqua!important;
+                                                                                                                 }
+                                                                                                                 
+                                                                                                                 p p #paragrafo {
+                                                                                                                     color: yellow;
+                                                                                                                 }
+                                                                                                                 
+                                                                                                                 p {
+                                                                                                                     background-color: blueviolet;
+                                                                                                                 }
+                                                                                                                 
+                                                                                                                 #paragrafo {
+                                                                                                                     color: black;
+                                                                                                                 }
+                                                                                                             }
+                                                                                                             color .paragrafo {
+                                                                                                                 color: blueviolet;
+                                                                                                                 {
+                                                                                                                     color: blue;
+                                                                                                                 }
+                                                                                                                 
+                                                                                                                 p {
+                                                                                                                     color: red;
+                                                                                                                 }
